@@ -1,1 +1,2 @@
 iago <- "Iago"
+othello <- "Othello"
